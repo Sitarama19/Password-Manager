@@ -25,7 +25,7 @@ class PasswordManager extends Component {
                   src="https://assets.ccbp.in/frontend/react-js/password-manager-website-img.png"
                   alt="website"
                 />
-                <input type="text" />
+                <input type="text" placeholder='website link'/>
               </div>
             </div>
           </div>
