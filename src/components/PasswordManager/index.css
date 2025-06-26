@@ -1,0 +1,42 @@
+.app-container {
+  background-color: #9ba9eb;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  padding: 24px;
+}
+
+.password-manager-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.app-logo {
+  align-self: flex-start;
+  height: 40px;
+  width: 100px;
+}
+
+.password-input-container {
+  background-color: #5763a5;
+  flex: 1;
+  border-radius: 10px;
+  width: 80%;
+  padding: 24px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.general-input-container {
+  background-color: #454f84;
+  border-radius: 12px;
+}
+
+.add-password-text {
+  font-family: 'Roboto';
+  font-size: 22px;
+  color: #f8fafc;
+}
